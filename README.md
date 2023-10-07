@@ -25,19 +25,19 @@ Front to back:
 
 Left to right:
 
-![image](https://github.com/Origami-Airplane/ESauron/assets/44964445/5dc3b553-3014-433e-aa2f-f4e8dd896f09)
+![Left to right](https://github.com/Nest-side/ESauron/assets/147241807/e4b3150e-ae39-4f74-859c-cef21bb8f937)
 
 Stimulate: Increasing the number of stimulation rounds can also compensate for the effect of light conditions. Even with a light intensity of 200 Lux. After multiple rounds of stimulation, strong EMR fluctuations can still be detected at a detection distance of more than 6m.
 
-![image](https://github.com/Origami-Airplane/ESauron/assets/44964445/90f08250-7cd7-431e-8912-5ff5fc9413e6)
+![Stimulate](https://github.com/Nest-side/ESauron/assets/147241807/2e659212-a812-48b0-bbe3-385eadec04b0)
 
 
 We conduct extensive measurement study on 50 camera products and observe that the spectrum pattern of memory EMR has distinctive static and dynamic characteristics, presenting a unique fingerprint. For the former, the offset of harmonic frequencies is sufficiently diverse across different memory models, which should be attributed to the different modulation frequencies of their clock generators. For the latter, due to imperfect manufacturing processes and memory heating effect, the clock frequency presents a dynamic and unique drift pattern, which differs across memory products even with the same model. ESauron thus exploits such memory clock fingerprints to separate and track each spy camera’s memory EMRs (see Sec. 4.3 in paper), which is decisive to practical usage scenarios. 
  
 Two camera: Devices with the same memory frequency have obvious frequency aliasing.
 
-![image](https://github.com/Origami-Airplane/ESauron/assets/44964445/f0d2bcb2-8ce4-4f21-9a68-745e776ef387)
+![Two camera](https://github.com/Nest-side/ESauron/assets/147241807/78674882-7fb4-47a0-9061-97ddb137ecd3)
 
 Unique fingerprint:
 
-![image](https://github.com/Origami-Airplane/ESauron/assets/44964445/4a6a609a-e107-46c0-b7fc-4d8c8f151a74)
+![Unique fingerprin](https://github.com/Nest-side/ESauron/assets/147241807/ab98829b-9f60-46ce-80df-3da89f7d2566)
