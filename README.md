@@ -21,7 +21,7 @@ The user needs to move the receiver along each axis:
 
 Front to back:
 
-![image](https://github.com/Origami-Airplane/ESauron/assets/44964445/e4d872b7-536d-4f8c-bb8a-a2a19f11ad58)
+![Front to back](https://github.com/Nest-side/ESauron/assets/147241807/02223f5b-cec0-4cee-a3d6-0851d2c0bd72)
 
 Left to right:
 
