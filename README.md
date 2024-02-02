@@ -39,5 +39,5 @@ Two camera: Devices with the same memory frequency have obvious frequency aliasi
 ![Two camera](https://github.com/Nest-side/ESauron/assets/147241807/78674882-7fb4-47a0-9061-97ddb137ecd3)
 
 Unique fingerprint:
+
 ![untitled](https://github.com/Nest-side/ESauron/assets/147241807/70bc185f-ca38-4634-a8f6-54b75f21181c)
-![Unique fingerprin](https://github.com/Nest-side/ESauron/assets/147241807/ab98829b-9f60-46ce-80df-3da89f7d2566)
